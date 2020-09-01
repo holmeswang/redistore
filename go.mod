@@ -1,4 +1,4 @@
-module holmeswang/redistore
+module github.com/holmeswang/redistore
 
 require (
 	github.com/gomodule/redigo v2.0.0+incompatible
